@@ -1,2 +1,4 @@
 # BMI088-Breakout-Board
-Breakout Board For The Bosch BMI088 IMU (SPI &amp; I2C Versions)
+Breakout Board for the Bosch BMI088 IMU (SPI &amp; I2C Versions)
+Sensor: BMI088 IMU (
+
