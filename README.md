@@ -1,4 +1,4 @@
-# BMI088-Breakout-Board (SPI)
+# BMI088 Breakout Board (SPI)
 Breakout Board for the Bosch BMI088 IMU (SPI &amp; I2C Versions)   
 (Designed In KiCad)  
 BOM Is Included With Supplier Links  
