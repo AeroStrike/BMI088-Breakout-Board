@@ -17,4 +17,4 @@ Weight (PCB, With Components): Not Obtained Yet
 ### Features
 Contains all necessary outputs for SPI Communications  
 No Accessible Interrupts  
-
+Header Pin Spacing Adapted For Optimal Breadboard Mounting  
