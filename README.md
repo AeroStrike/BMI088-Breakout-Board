@@ -1,6 +1,6 @@
 # BMI088 Breakout Board
 Breakout Board for the Bosch BMI088 IMU (SPI &amp; I2C Versions)   
-(Designed In KiCad)  
+(Designed In KiCad But Is Transitioning To Altium)  
 BOM Is Included With Supplier Links  
 ## Sensor Information  
 Sensor: BMI088 IMU (https://www.digikey.com/en/products/detail/bosch-sensortec/BMI088/8634936)  
