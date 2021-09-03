@@ -22,5 +22,10 @@ No Accessible Interrupts
 Header Pin Spacing Adapted For Optimal Breadboard Mounting  
 
 
+
+# BMI088 Library
+Library for BMI088 IMU (#include "BMI088.h" in Arduino sketch if the file is in the same file as the .ino file, #include <BMI088.h> if not)
+https://github.com/bolderflight/bmi088-arduino
+
 # License
 This product is open sourced, and is free for use in any application, and is free to modify and change. If you have any suggestions to make to the product, email us at aerostrikeex@gmail.com, and if you use this product for a project, please email us so we can see the cool things that our products are being used for. All we ask is that you give credit where credit is due.
