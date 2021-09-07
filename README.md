@@ -39,7 +39,7 @@ Header Pin Spacing Adapted For Optimal Breadboard Mounting (2.54mm Pitch)
 All are available for custom order, for specificed weight and size needs. Not normally stocked, and require a bit more lead time and cost to sell. 
 - BMI088 SPI&I2C Breakout 
 - Super Lightweight Series BMI088 Breakout SPI (For When Every Gram Matters) 
-- Super Lightweight Series BMI088 Breakuot I2C (For When Every Gram Matters) 
+- Super Lightweight Series BMI088 Breakout I2C (For When Every Gram Matters) 
 - SMD Mounted BMI088 Breakout SPI (For When Every Millimeter Matters) 
 - SMD Mounted BMI088 Breakout I2C (For When Every Millimeter Matters)   
 
