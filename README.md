@@ -35,6 +35,8 @@ Weight (PCB, With Components, With Headers): Not Obtained Yet
 Contains all necessary outputs for I2C Communications  
 Accessible Interrupts On Header Pins  
 Header Pin Spacing Adapted For Optimal Breadboard Mounting (2.54mm Pitch)  
+### IMPORTANT NOTE!!!
+On the bottom side of the board you will see two separate solder jumper pins. These connect/disconnect the pull up resistors for your I2C lines. If somewhere else on your design you already have pull up resistors for your I2C lines, then you don´t need to do anything, aka leave them unsoldered. If you need to use the pull up resistors, simply just solder the two pads together. One jumper is for the SCL line, and the other is for SDA. If you would like your boards to come with presoldered jumpers, please just let me know immediately after your order at aerostrikeex@gmail.com and I will solder it for you!!
 # Other Future Versions
 All are available for custom order, for specificed weight and size needs. Not normally stocked, and require a bit more lead time and cost to sell. 
 - BMI088 SPI&I2C Breakout 
