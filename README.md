@@ -48,10 +48,9 @@ All are available for custom order, for specificed weight and size needs. Not no
 
 If you have custom specifications, please contact me (aerostrikeex@gmail.com) for details. The design is easily configurable, so it will not cost 100s of dollars and weeks to redesign and order your custom boards! 
 # Mass/Bulk Orders
-If you would like to buy bulk orders (10 or more), please contact me and I will set up cheaper shipping and costs for you, as selling more at once costs me less, so you should pay less too! 
+If you would like to buy bulk orders of the breakout (more than what I have listed in stock on the AeroStrike Online Store, please contact me and I will set up cheaper shipping and costs for you, and see if I can find the supply of sensors available (The BMI088 is out of stock almost everywhere as of September 2021). 
 # BMI088 Library
 Library for BMI088 IMU (#include "BMI088.h" in Arduino sketch if the file is in the same file as the .ino file, #include <BMI088.h> if not)
 https://github.com/bolderflight/bmi088-arduino 
-
 # License
 This product is open sourced, and is free for use in any application, and is free to modify and change. If you have any suggestions to make to the product, email us at aerostrikeex@gmail.com, and if you use this product for a project, please email us so we can see the cool things that our products are being used for. All we ask is that you give credit where credit is due.
