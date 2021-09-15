@@ -25,12 +25,12 @@ Current Production Revision: N/A (No Production Ready Version)
 Current Prototype Revision: V0.1 
 ## V0.1 Details 
 Initial Release 
-### Size
-Size (PCB, No Components): Not Obtained Yet 
-Size (PCB, With Components, With Headers): Not Obtained Yet 
+### Size 
+Size (PCB, No Components): Not Obtained Yet   
+Size (PCB, With Components, With Headers): Not Obtained Yet   
 ### Weight 
-Weight (PCB, No Components):Not Obtained Yet 
-Weight (PCB, With Components, With Headers): Not Obtained Yet 
+Weight (PCB, No Components):Not Obtained Yet   
+Weight (PCB, With Components, With Headers): Not Obtained Yet   
 ### Features 
 Contains all necessary outputs for I2C Communications  
 Accessible Interrupts On Header Pins  
