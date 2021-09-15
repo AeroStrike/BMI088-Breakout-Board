@@ -21,7 +21,7 @@ Contains all necessary outputs for SPI Communications
 No Accessible Interrupts  
 Header Pin Spacing Adapted For Optimal Breadboard Mounting (2.54mm Pitch, ~10.16mm Pin Spacing)
 # BMI088 Breakout I2C Version
-Current Production Revision: N/A (No Production Ready Version) 
+Current Production Revision: N/A (No Production Ready Version)   
 Current Prototype Revision: V0.1 
 ## V0.1 Details 
 Initial Release 
