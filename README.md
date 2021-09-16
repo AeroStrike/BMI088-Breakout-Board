@@ -11,11 +11,9 @@ Current Prototype Revision: V0.1
 ## V0.1 Details  
 Initial Release  
 ### Size
-Size (PCB, No Components): 15.35mm Height x 12.8mm Width x 1.6mm Height  
-Size (PCB, With Components, With Headers): 15.35 Height x 12.8mm Width x 3mm Height (Estimated From CAD Model)  
+Size (PCB): 15.35mm Height x 12.8mm Width x 1.6mm Height  
 ### Weight
-Weight (PCB, No Components): Not Obtained Yet  
-Weight (PCB, With Components): Not Obtained Yet  
+Weight (With Components): Not Obtained Yet  
 ### Features
 Contains all necessary outputs for SPI Communications  
 No Accessible Interrupts  
@@ -26,11 +24,9 @@ Current Prototype Revision: V0.1
 ## V0.1 Details 
 Initial Release 
 ### Size 
-Size (PCB, No Components): Not Obtained Yet   
-Size (PCB, With Components, With Headers): Not Obtained Yet   
+Size (PCB): 13.6mm Height x 10.8mm Width x 1.6mm Height  
 ### Weight 
-Weight (PCB, No Components):Not Obtained Yet   
-Weight (PCB, With Components, With Headers): Not Obtained Yet   
+Weight (With Components): Not Obtained Yet   
 ### Features 
 Contains all necessary outputs for I2C Communications  
 Accessible Interrupts On Header Pins  
