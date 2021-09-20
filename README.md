@@ -9,6 +9,7 @@ Sensor: BMI088 IMU (https://www.digikey.com/en/products/detail/bosch-sensortec/B
 Datasheet: https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf  
 # BMI088 Breakout I2C Version
 Current Production Revision: V1.0  
+Current Prototype Revision: V1.1
 ## V1.0 Details 
 First Production Release   
 ### Size 
@@ -21,6 +22,16 @@ Weight (With Components): Not Obtained Yet
 Contains all necessary outputs for I2C Communications  
 Accessible Interrupts On Header Pins  
 Header Pin Spacing Adapted For Optimal Breadboard Mounting (2.54mm Pitch, ~10.16 Pin Spacing)  
+## V1.1 Details 
+Thinner PCB than V1.0   
+### Size 
+Size (PCB): Not Obtained Yet 
+Size (With Components): Not Obtained Yet   
+### Weight 
+Weight (PCB): Not Obtained Yet   
+Weight (With Components): Not Obtained Yet   
+### Features 
+Same board as V1.0, but with a thinner PCB.
 ### IMPORTANT NOTE!!!
 On the bottom side of the board you will see two separate solder jumper pins. These connect/disconnect the pull up resistors for your I2C lines. If somewhere else on your design you already have pull up resistors for your I2C lines, then you don´t need to do anything, aka leave them unsoldered. If you need to use the pull up resistors, simply just solder the two pads together. One jumper is for the SCL line, and the other is for SDA. If you would like your boards to come with presoldered jumpers, please just let me know immediately after your order at aerostrikeex@gmail.com and I will solder it for you!!
 # Other Future Versions
