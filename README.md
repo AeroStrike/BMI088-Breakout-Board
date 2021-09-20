@@ -2,7 +2,7 @@
 Breakout Board for the Bosch BMI088 IMU (I2C Version)   
 (Designed In Altium)  
 BOM Is Included With Supplier Links  
-Datasheet Is Included
+Datasheet Is Included   
 Footprints For Components Are Located Here: https://github.com/AeroStrike/Altium-In-House-Libraries   
 ## Sensor Information  
 Sensor: BMI088 IMU (https://www.digikey.com/en/products/detail/bosch-sensortec/BMI088/8634936)  
