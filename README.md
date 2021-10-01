@@ -13,11 +13,11 @@ Current Prototype Revision: V1.1
 ## V1.0 Details 
 First Production Release   
 ### Size 
-Size (PCB): 13.6mm Height x 10.8mm Width x 1.6mm Height  
-Size (With Components): Not Obtained Yet   
+Size (PCB): 13.6mm Length x 10.8mm Width x 1.6mm Height  
+Size (With Components): 13.6mm Length x 10.8mm Width x 3mm Height
 ### Weight 
-Weight (PCB): Not Obtained Yet   
-Weight (With Components): Not Obtained Yet   
+Weight (PCB): 0.4 Grams  
+Weight (With Components): 0.5 Grams 
 ### Features 
 Contains all necessary outputs for I2C Communications  
 Accessible Interrupts On Header Pins  
